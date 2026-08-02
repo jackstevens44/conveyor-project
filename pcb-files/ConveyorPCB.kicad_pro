@@ -514,7 +514,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NewConveyorPCB.kicad_pro",
+    "filename": "ConveyorPCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -669,7 +669,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "NewConveyorPCB.kicad_sch",
+        "filename": "ConveyorPCB.kicad_sch",
         "name": "Root",
         "uuid": "77883004-4e09-4a7b-a6e3-9528615bf84e"
       }

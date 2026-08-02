@@ -2960,7 +2960,7 @@
 			(uuid "51f3175b-90b5-4b08-a660-8c3cf1da3584")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "J1")
 					(unit 1)
@@ -3139,7 +3139,7 @@
 			(uuid "a381a007-d97f-46ec-b84d-533c63a42121")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "J2")
 					(unit 1)
@@ -3258,7 +3258,7 @@
 			(uuid "5009af32-d74a-4a50-bbca-23eaed3c68ea")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "CN3")
 					(unit 1)
@@ -3425,7 +3425,7 @@
 			(uuid "3cab5f8b-ce4e-4d4f-8177-0930a415eb55")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "A1")
 					(unit 1)
@@ -3604,7 +3604,7 @@
 			(uuid "e1c2a1a4-b909-439f-a230-46be7f8c5f56")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "J3")
 					(unit 1)
@@ -3723,7 +3723,7 @@
 			(uuid "e1e09be7-a0a0-4edb-978b-3aa5a6cf3185")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "CN1")
 					(unit 1)
@@ -3903,7 +3903,7 @@
 			(uuid "580aaeb1-c3d7-4af6-943b-bbad7e90ebe8")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "SDA")
 					(unit 1)
@@ -4022,7 +4022,7 @@
 			(uuid "97dd2435-d5c5-47cc-8db7-36a44bba8a23")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "CN2")
 					(unit 1)
@@ -4147,7 +4147,7 @@
 			(uuid "0f9f7b87-344e-4f3f-9531-c49d222da434")
 		)
 		(instances
-			(project "NewConveyorPCB"
+			(project "ConveyorPCB"
 				(path "/77883004-4e09-4a7b-a6e3-9528615bf84e"
 					(reference "U1")
 					(unit 1)

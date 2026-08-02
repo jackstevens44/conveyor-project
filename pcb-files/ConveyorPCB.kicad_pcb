@@ -230,7 +230,7 @@
 		)
 		(path "/8f9557e0-7ff7-411e-b259-007540c5122c")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -915,7 +915,7 @@
 		(property ki_fp_filters "Arduino*Nano*")
 		(path "/641e6555-5fcc-4edc-8a0e-65d73a5ae5ef")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1758,7 +1758,7 @@
 		)
 		(path "/dec546eb-8686-4b1c-b214-2555e4fb0a0a")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2101,7 +2101,7 @@
 		)
 		(path "/728935a3-9294-4505-9aae-89ec143f54a3")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2377,7 +2377,7 @@
 		)
 		(path "/552994d8-6284-4884-9505-992208879480")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3160,7 +3160,7 @@
 		)
 		(path "/5365097d-af9b-4d63-a1a5-2d2d5860e69c")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3436,7 +3436,7 @@
 		)
 		(path "/df6f9944-d69f-4dab-9e6a-eaba94866e21")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4327,7 +4327,7 @@
 		)
 		(path "/23773ca0-ac4f-4310-899d-4da99941345d")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4688,7 +4688,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/e37bb8a3-e61e-4aaf-b14e-d8d6bf7f5b2a")
 		(sheetname "/")
-		(sheetfile "NewConveyorPCB.kicad_sch")
+		(sheetfile "ConveyorPCB.kicad_sch")
 		(units
 			(unit
 				(name "A")
