@@ -26,6 +26,7 @@ conveyor-project/
 │   ├── Sprocket.stl
 │   ├── SprocketPin.stl
 │   └── TreadLink.stl
+├── code/                      Arduino code to control conveyor
 └── README.md
 ```
 
