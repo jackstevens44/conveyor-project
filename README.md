@@ -3,7 +3,7 @@
 <!-- Replace this paragraph with a short description of the conveyor, what it is
 designed to do, and its current development status. -->
 
-A compact conveyor system with a custom controller PCB and 3D-printable mechanical parts.
+This project is a compact conveyor system featuring a custom-designed controller PCB and 3D-printable mechanical components. I created it to gain hands-on experience with PCB design, electronics integration, mechanical design, rapid prototyping, and design-for-manufacturing.
 
 ## Project status
 
