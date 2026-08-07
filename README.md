@@ -21,7 +21,10 @@ conveyor-project/
 │   ├── NewConveyorPCB.kicad_pcb
 │   └── fab-files/gerbers.zip
 ├── stl-files/                 3D-printable mechanical parts
-│   ├── ConveyorBase.stl
+│   ├── conveyor-base-parts/
+│   │   ├── BearingSlot.stl
+│   │   ├── ConveyorBase.stl
+│   │   └── MotorBase.stl
 │   ├── MotorWheel.stl
 │   ├── Sprocket.stl
 │   ├── SprocketPin.stl
@@ -54,6 +57,8 @@ pcb-files/ if the list becomes long. -->
 | Power supply | 1 | 5V DC Power Supply | [Amazon](https://www.amazon.com/Adjustable-Switching-Regulated-Adjustments-Jesverty/dp/B09YSJQWRG/ref=sr_1_9?crid=RU2I6P17LDUR&dib=eyJ2IjoiMSJ9.bpne59jAEmaTFwmIsQCQhTqgw4IQY65Dw4FDdB8OQz_Ecffxi1TowvI5zsghytbijl_1j7_s0npvxgVQFqhbWMT10DBirUDh4-yq3dJqWEhJmdyZwxivPJMaoJ1KstsehQq5iAvTCPxRA2gXOBRJsTDN7kXZ_Kgxwffos8XqOIRSXc5FngmeqCCIJYCrZ_1-oBqjrCkD9KUe5rgq8wMdk-KiZEaG6KIPqqcH2dt3D-8.EnnGaUa-Mi3bt2TU4QdSq8au0XoTXh95RY_4BBbdKmI&dib_tag=se&keywords=5v%2Bpower%2Bsupply%2Belectronics&qid=1785630137&sprefix=5v%2Bpower%2Bsupply%2Belectronics%2Caps%2C166&sr=8-9&th=1)|
 | PCB | 1 | NewConveyorPCB | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | Conveyor base | 1 | 3D printed | `ConveyorBase.stl` |
+| Motor Base | 1 | 3D printed | `MotorBase.stl` |
+| Bearing slot | 4 | 3D printed | `BearingSlot.stl` |
 | Motor wheel | 1 | 3D printed | `MotorWheel.stl` |
 | Sprocket | 2 | 3D printed | `Sprocket.stl` |
 | Sprocket pin | 2 | 3D printed | `SprocketPin.stl` |
